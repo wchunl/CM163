@@ -14,8 +14,8 @@ Created for course CMPM 163 at UC Santa Cruz
 
 ### WebGL Links
 
-- Part A. [Shader Intro](https://wchunl.github.io/GraphicsRenderingUnity/Hw1-A/index.html)
-- Part B. [Image Processing](https://wchunl.github.io/GraphicsRenderingUnity/Hw1-B/index.html). Move mouse to change blur rate.
+- Part A. [Shader Intro](https://wchunl.github.io/GraphicsRenderingUnity/asg1/Hw1-A/index.html)
+- Part B. [Image Processing](https://wchunl.github.io/GraphicsRenderingUnity/asg1/Hw1-B/index.html). Move mouse to change blur rate.
 
 ### Screenshots
 
