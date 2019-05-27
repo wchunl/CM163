@@ -8,7 +8,7 @@ Created for course CMPM 163 at UC Santa Cruz
 
 ### Description
 
-- Part A.  Created a 3D scene with a character model which has an outline shader applied to it. The second shader is a screen-space bloom filter that blurs and brightens the scene. Phong lighting model is also used here.
+- Part A.  Created a 3D oasis-like scene that has a tiki torch with fire particles that has a noise function, a palm tree model with coconuts that fall with respect to music beats, and water with distortion and noise filter.
 - Part B.  Intial planning for the final project.
 
 ### Links/Downloads
